@@ -21,7 +21,7 @@ This is a template focused on helping people spin up selfhosted services using P
 3. Add the url: `https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Template/template.json` then go to app templates and hit refresh at the top.
 
 ### Information
-All templates are already configured to bind mount to various places on your drive. This branch works without the need for OMV. The following folders are all created in /portainer/
+All templates are already configured to bind mount to various places on your drive. This branch works without the need for OMV. The following folders are all created in /srv/dev-disk-by-label-media/
 
 * **Files** - General file storage.
   * **AppData** - Subfolder where application data (unrelated to served data) is stored.
